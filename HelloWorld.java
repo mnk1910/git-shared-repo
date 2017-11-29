@@ -4,7 +4,8 @@ public class HelloWorld {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("User3: "+ (3+3));
+		System.out.println("User1: "+ (1+1));
+		System.out.println("User2: "+ (2+2));
 	}
 
 }
